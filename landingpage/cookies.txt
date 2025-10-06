@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+quomodosoft.com	TRUE	/	FALSE	1999999999	PHPSESSID	83390d12bae8406da7bbb2234051cd53
+
