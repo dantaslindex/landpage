@@ -265,6 +265,7 @@
     position: absolute;
     width: 100%;
     padding: 15px 0;
+    background: linear-gradient(250deg, #007BFF, #ffffff);
 }
 /*-----------------------
 2. Scroll-To-Top-Button
